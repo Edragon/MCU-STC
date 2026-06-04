@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\rf-motor-driver" 
+PRINT(".\Listings\rf-motor-driver.m51") RAMSIZE(256) 
